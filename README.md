@@ -19,18 +19,35 @@
 
 ## 🚀 About Me
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Passion-Data%20Science-blue" />
+  <img src="https://img.shields.io/badge/Expertise-Python%20Development-orange" />
+</div>
+
 ```python
 salman = {
-  "languages": ["Python", "Java", "Shell"],
-  "frameworks": ["Django Rest Framework", "Jupyter", "Machine Learning Libraries"],
+  "languages": ["Python", "JavaScript", "Shell"],
+  "frameworks": ["Django", "Jupyter", "Machine Learning Libraries"],
   "tools": ["Docker", "Git", "AWS", "Data Visualization"],
   "interests": ["AI/ML", "Data Science", "Web Development", "Time Series Analysis"],
   "current_focus": "Building ML models and web applications"
 }
 ```
 
-I'm passionate about leveraging machine learning and data science to solve real-world problems. With a focus on Python development, I enjoy working on projects ranging from ML model development to full-stack web applications. I'm constantly learning and exploring new technologies in the AI space.
-
+<div align="left">
+  <p>
+    I'm passionate about leveraging machine learning and data science to solve real-world problems. With a focus on Python development, I enjoy working on projects ranging from ML model development to full-stack web applications. I'm constantly learning and exploring new technologies in the AI space.
+  </p>
+  
+  <details>
+    <summary><b>✨ My Professional Journey</b></summary>
+    <br/>
+    <p>
+      With expertise in data-driven solutions, I specialize in transforming complex datasets into actionable insights. My experience spans across multiple domains, applying AI/ML techniques to develop scalable solutions that drive business value and technical innovation.
+    </p>
+  </details>
+</div>
 ---
 
 ## 💻 Tech Stack
