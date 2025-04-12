@@ -27,7 +27,7 @@
 
 ```python
 salman = {
-  "languages": ["Python", "JavaScript", "Shell"],
+  "languages": ["Python", "Java", "Shell"],
   "frameworks": ["Django", "Jupyter", "Machine Learning Libraries"],
   "tools": ["Docker", "Git", "AWS", "Data Visualization"],
   "interests": ["AI/ML", "Data Science", "Web Development", "Time Series Analysis"],
@@ -60,7 +60,6 @@ salman = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Data_Analysis-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
