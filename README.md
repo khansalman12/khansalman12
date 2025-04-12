@@ -21,8 +21,8 @@
 
 ```python
 salman = {
-  "languages": ["Python", "JavaScript", "Shell"],
-  "frameworks": ["Django", "Jupyter", "Machine Learning Libraries"],
+  "languages": ["Python", "Java", "Shell"],
+  "frameworks": ["Django Rest Framework", "Jupyter", "Machine Learning Libraries"],
   "tools": ["Docker", "Git", "AWS", "Data Visualization"],
   "interests": ["AI/ML", "Data Science", "Web Development", "Time Series Analysis"],
   "current_focus": "Building ML models and web applications"
