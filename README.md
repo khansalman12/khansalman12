@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salman Khan (@khansalman12)
 
-<div align="center">
+<div align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=Python+Developer;Machine+Learning+Enthusiast;Data+Scientist;Full+Stack+Developer" alt="Typing SVG" />
   
   <br />
