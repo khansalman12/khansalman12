@@ -104,11 +104,9 @@ salman = {
   <img src="https://github-readme-stats.vercel.app/api?username=khansalman12&show_icons=true&count_private=true&hide=issues&theme=react&hide_border=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansalman12&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" height="170" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khansalman12&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=khansalman12&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ---
 
 ## 🌱 Recent Projects
