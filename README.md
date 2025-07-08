@@ -4,9 +4,11 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
 
-## 🤖 Machine Learning & AI Engineer | LLM Enthusiast | Python Developer
+## 🤖 About Me
 
-I'm a passionate and results-driven Machine Learning Engineer with a strong focus on **Artificial Intelligence**, **Deep Learning**, and **Large Language Models (LLMs)**. My goal is to leverage cutting-edge technologies to build intelligent systems that solve real-world problems. I have a proven track record of developing robust applications, from complex computer vision models to scalable backend APIs.
+As a Machine Learning Engineer, I thrive on building intelligent systems that tackle complex, real-world challenges. My work spans from developing advanced **computer vision models** for scientific research—such as classifying gravitational lenses with PyTorch—to engineering **sophisticated AI agents** using Retrieval-Augmented Generation (RAG) and Large Language Models.
+
+I'm also passionate about robust backend development and have experience creating scalable **RESTful APIs** with Django and DRF. My commitment to the field extends to the open-source community, where I've contributed to the `aeon` toolkit for time series analysis. I'm always eager to explore new frontiers in AI and apply my skills to create impactful solutions.
 
 ### 🛠️ Key Skills
 
@@ -26,39 +28,30 @@ I'm a passionate and results-driven Machine Learning Engineer with a strong focu
   <img src="https://img.shields.io/badge/LLMs-007BFF?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### 🚀 Professional Journey
+### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">RAG AI Agent</h3>
-      <div align="center">
-        <a href="https://github.com/khansalman12/Ai_agent" target="_blank"><img src="https://raw.githubusercontent.com/keploy/docs/main/static/img/ai-agent.png" width="400" alt="AI Agent Project"></a>
-        <p><strong>Modular framework for Retrieval-Augmented Generation AI agents with specialized prompting systems</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">DeepLens Computer Vision</h3>
-      <div align="center">
-        <a href="https://github.com/khansalman12/DeepLens-Solutions-Salman" target="_blank"><img src="https://d1.awsstatic.com/products/deeplens/product-page-diagram_DeepLens_How-it-Works.8c2af908fec8e93dc3ce048a0fa665e8562953e2.png" width="400" alt="DeepLens Project"></a>
-        <p><strong>Multi-class image classification for gravitational lensing with CNNs and PyTorch</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Time Series Forecasting</h3>
-      <div align="center">
-        <a href="https://github.com/khansalman12/MLPridictingPrices" target="_blank"><img src="https://raw.githubusercontent.com/iampawan/iampawan/master/AI.gif" width="400" alt="ML Prediction Project"></a>
-        <p><strong>Machine learning models for accurate market price forecasting and analysis</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Django E-Commerce API</h3>
-      <div align="center">
-        <a href="https://github.com/khansalman12/django-ecommerce-api" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/django.svg" width="400" alt="Django API Project"></a>
-        <p><strong>Feature-rich RESTful API with JWT auth, role-based access, order processing, and reviews</strong></p>
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-direction: column; gap: 16px;">
+
+  <!-- Project 1: RAG AI Agent -->
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
+    <a href="https://github.com/khansalman12/Ai_agent"><strong>🧠 RAG AI Agent</strong></a><br>
+    <p>A modular framework for Retrieval-Augmented Generation AI agents, featuring specialized prompting systems and leveraging modern LLMs for enhanced information retrieval.</p>
+    <p>
+      <code>PyTorch</code> <code>Transformers</code> <code>LangChain</code> <code>LLM</code>
+    </p>
+  </div>
+
+  <!-- Project 2: DeepLens Computer Vision -->
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
+    <a href="https://github.com/khansalman12/DeepLens-Solutions-Salman"><strong>👁️ DeepLens Computer Vision</strong></a><br>
+    <p>Applied deep learning to a scientific challenge by building a multi-class image classification model with CNNs to identify gravitational lensing in astronomical images.</p>
+    <p>
+      <code>PyTorch</code> <code>CNN</code> <code>AWS DeepLens</code> <code>Computer Vision</code>
+    </p>
+  </div>
+
+  <!-- Project 3: Django E-Commerce API -->
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
+    <a href="https://github.com/khansalman12/django-ecommerce-api"><strong>🛒 Django E-Commerce API</strong></a><br>
+    <p>Developed a feature-rich RESTful API for an e-commerce platform, complete with JWT authentication, role-based access, and order processing capabilities.</p>
+    <p>
