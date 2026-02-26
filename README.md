@@ -8,12 +8,12 @@
 
 🎓 **B.Tech Computer Science & Engineering** at Delhi Technological University (2024–2028)
 
-I build backend systems and AI-powered applications. Currently working as a **Software Engineer Intern** at Socialfaim, and actively contributing to open-source projects.
+Passionate about **AI/ML** and **algorithmic problem solving**. I love building intelligent systems from scratch and breaking down complex problems into clean, efficient solutions.
 
-**What I'm working on:**
-- 🤖 Building AI agents with LangGraph and LangChain
-- 🛠️ Backend APIs with Django & Django REST Framework
-- 📊 Solving DSA problems on LeetCode (350+)
+**What I'm focused on:**
+- � Deep-diving into AI agents, RAG systems, and LLM orchestration
+- 💡 Solving **350+ DSA problems** — strong in DP, Graphs, Trees, and Binary Search
+- 🛠️ Building production-grade backend APIs with Django & PostgreSQL
 - 🌐 Contributing to open-source ([aeon-toolkit](https://github.com/aeon-toolkit/aeon) — 1.3k ⭐)
 
 ### Tech Stack
