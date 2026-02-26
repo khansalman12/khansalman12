@@ -6,15 +6,13 @@
 
 ## About Me
 
-🎓 **B.Tech Computer Science & Engineering** at Delhi Technological University (2024–2028)
-
-Passionate about **AI/ML** and **algorithmic problem solving**. I love building intelligent systems from scratch and breaking down complex problems into clean, efficient solutions.
+Software engineer passionate about **AI systems** and **algorithmic problem solving**. I build intelligent applications from scratch and break down complex problems into clean, efficient solutions.
 
 **What I'm focused on:**
-- � Deep-diving into AI agents, RAG systems, and LLM orchestration
-- 💡 Solving **350+ DSA problems** — strong in DP, Graphs, Trees, and Binary Search
-- 🛠️ Building production-grade backend APIs with Django & PostgreSQL
-- 🌐 Contributing to open-source ([aeon-toolkit](https://github.com/aeon-toolkit/aeon) — 1.3k ⭐)
+- 🧠 Building AI agents with RAG, LLM orchestration, and multi-agent systems
+- 💡 **350+ DSA problems** solved — strong in DP, Graphs, Trees, and Binary Search
+- 🛠️ Production-grade backend APIs with Django, PostgreSQL, Docker
+- 🌐 Open-source contributor — [aeon-toolkit](https://github.com/aeon-toolkit/aeon) (1.3k ⭐)
 
 ### Tech Stack
 
