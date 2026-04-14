@@ -16,6 +16,8 @@
 
 I build resilient backend systems and contribute to open-source agentic AI frameworks. My focus is on distributed systems, LLM orchestration, and shipping code that solves real problems — not just code that runs on my machine.
 
+I approach engineering as a problem solver first — breaking down ambiguous requirements into clean system designs before writing a single line of code. Whether it's choosing the right concurrency model, designing a fault-tolerant queue, or debugging a race condition in async agent pipelines, I think in systems.
+
 Currently contributing to ML4Sci's DeepLense project and building production-grade backend APIs with Python and LangGraph.
 
 ---
@@ -60,5 +62,6 @@ Currently contributing to ML4Sci's DeepLense project and building production-gra
 
 ### 📈 Problem Solving
 
-- **550+ LeetCode** — 400+ Medium · 70+ Hard (DP, Graphs, Trees, Sliding Window, Union-Find)
-- **CodeChef 3-Star** — 1600+ rating · 15+ rated contests
+- **550+ LeetCode** — 400+ Medium · 70+ Hard
+- Strong in: Dynamic Programming · Graphs · Trees · Binary Search · Sliding Window · Union-Find · Topological Sort
+- **CodeChef 3-Star** — 1600+ rating · 15+ rated contests · Division 2
